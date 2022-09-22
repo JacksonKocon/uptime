@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.torra.ddns.net",
     "slug": "torra",
     "status": "down",
-    "uptime": "3.12%",
-    "uptimeDay": "3.12%",
-    "uptimeWeek": "3.12%",
-    "uptimeMonth": "3.12%",
-    "uptimeYear": "3.12%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-09-22": 0
+      "2022-09-22": 4
     }
   }
 ]
