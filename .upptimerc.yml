@@ -10,9 +10,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.jacksonkocon.com
   # baseUrl: uptime
-  theme: dark
+  theme: night
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Torra Uptime
+  name: Torra Server Status
   introTitle: "**Uptime"
   introMessage: detail
   navbar:
