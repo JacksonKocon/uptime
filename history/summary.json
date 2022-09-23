@@ -4,20 +4,19 @@
     "url": "http://torra.ddns.net",
     "icon": "https://favicons.githubusercontent.com/torra.ddns.net",
     "slug": "torra",
-    "status": "down",
-    "uptime": "74.69%",
-    "uptimeDay": "77.82%",
-    "uptimeWeek": "74.69%",
-    "uptimeMonth": "74.69%",
-    "uptimeYear": "74.69%",
-    "time": 272,
-    "timeDay": 272,
-    "timeWeek": 272,
-    "timeMonth": 272,
-    "timeYear": 272,
+    "status": "up",
+    "uptime": "96.71%",
+    "uptimeDay": "96.45%",
+    "uptimeWeek": "96.71%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "96.71%",
+    "time": 255,
+    "timeDay": 255,
+    "timeWeek": 255,
+    "timeMonth": 255,
+    "timeYear": 255,
     "dailyMinutesDown": {
-      "2022-09-23": 189,
-      "2022-09-22": 190
+      "2022-09-23": 51
     }
   }
 ]
