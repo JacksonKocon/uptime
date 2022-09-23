@@ -1,4 +1,4 @@
-# [📈 Live Status](https://torra.ddns.net): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](http://torra.ddns.net): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [jacksonkocon](https://torra.ddns.net), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -20,10 +20,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://torra.ddns.net)
+[**Visit our status website →**](http://torra.ddns.net)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [jacksonkocon](https://torra.ddns.net)
+- Code: [MIT](./LICENSE) © [jacksonkocon](http://torra.ddns.net)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
