@@ -13,7 +13,6 @@ status-website:
   theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Torra Uptime
-  logoUrl: https://example.com/image.jpg
   introTitle: "**Uptime"
   introMessage: detail
   navbar:
