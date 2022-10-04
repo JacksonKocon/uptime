@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/torra.ddns.net.ico",
     "slug": "torra",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "91.02%",
+    "uptimeDay": "2.93%",
+    "uptimeWeek": "86.13%",
+    "uptimeMonth": "91.02%",
+    "uptimeYear": "91.02%",
     "time": 220,
-    "timeDay": 221,
-    "timeWeek": 209,
+    "timeDay": 0,
+    "timeWeek": 202,
     "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2022-10-03": 0,
+      "2022-10-04": 102,
+      "2022-10-03": 1296,
       "2022-09-23": 51
     }
   }
