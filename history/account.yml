@@ -1,7 +1,7 @@
-url: http://account.torraplus.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-02-03T21:45:03.473Z
+url: https://account.torraplus.com
+status: up
+code: 200
+responseTime: 331
+lastUpdated: 2024-02-03T21:55:05.123Z
 startTime: 2023-07-25T10:13:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
